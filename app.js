@@ -38,7 +38,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="container w-25">
+      <div className="container">
         <form>
           <input
             type="text"

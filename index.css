@@ -12,11 +12,9 @@ body{
 }
 
 .container{
-    top: 50%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    margin: 0 auto;
+   
+    margin: 50px auto;
+    max-width: 256px;
     text-align: center;
     border: 10px solid #101116;
     background: #101116;
@@ -29,7 +27,7 @@ body{
 }
 input[type=text]{
     height: 75px;
-    width: 249px;
+    width: 225px;
     background-color: #101116;
     border: 0px;
     color: #ffffff;
